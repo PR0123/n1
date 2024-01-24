@@ -1,0 +1,11 @@
+{
+  "name": "@pr0123/n1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exit 0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
